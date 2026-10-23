@@ -3,7 +3,7 @@ A Bayesian analysis of childhood varicella (chickenpox) vaccination coverage in 
 
 This was a group project for the Bayesian Inference course at Hasselt University (2024–2025). The report follows the structure of the assignment and answers ten questions in order.
 
-[Read the documentation →](https://maryamshojaeiee-hub.github.io/DNA-Sequence-Assembly-with-de-Bruijn-Graphs/documentation.pdf) · [View the code →](https://maryamshojaeiee-hub.github.io/DNA-Sequence-Assembly-with-de-Bruijn-Graphs/main_codes.py) 
+[Read the full report →](https://github.com/maryamshojaeiee-hub/Bayesian-Analysis-of-Varicella-Vaccination-Coverage/blob/main/Report_Project%20Assignment%20Bayesian%20Inference.pdf) · [View the code →](https://github.com/maryamshojaeiee-hub/Bayesian-Analysis-of-Varicella-Vaccination-Coverage/blob/main/Final%20code.R)
 
 Estimated vaccination coverage by region and birth year
 
