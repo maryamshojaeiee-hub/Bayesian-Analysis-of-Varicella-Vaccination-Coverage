@@ -17,6 +17,10 @@ Year is centred at 2015 to make the intercept interpretable and to improve MCMC 
 # How to run
 Requires R and JAGS installed on your system.
 
-r
+```r
 install.packages(c("rjags", "runjags", "coda", "ggplot2", "dplyr", "mcmcplots"))
 source("codes.R")
+```
+
+# Tools
+R, JAGS / BUGS, rjags, runjags, coda, ggplot2, dplyr
