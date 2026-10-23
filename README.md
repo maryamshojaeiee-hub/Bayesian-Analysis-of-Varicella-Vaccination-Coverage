@@ -2,6 +2,7 @@
 A Bayesian study of childhood varicella (chickenpox) vaccination coverage in three US regions (Georgia, Wisconsin and Mississippi) across birth cohorts 2011–2020. The project moves from closed-form conjugate analysis to MCMC-based logistic regression, and uses the posterior to answer practical questions: Is coverage changing over time? Do regions differ? Was 2020 unusual?
 
 [Read the documentation →](https://maryamshojaeiee-hub.github.io/DNA-Sequence-Assembly-with-de-Bruijn-Graphs/documentation.pdf) · [View the code →](https://maryamshojaeiee-hub.github.io/DNA-Sequence-Assembly-with-de-Bruijn-Graphs/main_codes.py) 
+
 Estimated vaccination coverage by region and birth year
 
 # Data
