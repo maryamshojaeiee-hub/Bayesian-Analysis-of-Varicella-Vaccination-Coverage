@@ -63,3 +63,5 @@ source("codes.R")
 
 # Tools
 R, JAGS / BUGS, rjags, runjags, coda, ggplot2, dplyr
+
+Group project, Bayesian Inference course, Hasselt University (2024–2025)
