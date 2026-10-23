@@ -1,14 +1,15 @@
 # Bayesian-Analysis-of-Varicella-Vaccination-Coverage
-A Bayesian study of childhood varicella (chickenpox) vaccination coverage in three US regions (Georgia, Wisconsin and Mississippi) across birth cohorts 2011–2020. The project moves from closed-form conjugate analysis to MCMC-based logistic regression, and uses the posterior to answer practical questions: Is coverage changing over time? Do regions differ? Was 2020 unusual?
+A Bayesian analysis of childhood varicella (chickenpox) vaccination coverage in three US regions (Georgia, Wisconsin and Mississippi) for birth cohorts 2011–2020. The project goes from closed-form conjugate analysis to Bayesian logistic regression fitted with MCMC in JAGS, and uses the posterior to answer practical questions: Is coverage changing over time? Do the regions follow different trends? Was the 2020 cohort unusual?
+
+This was a group project for the Bayesian Inference course at Hasselt University (2024–2025). The report follows the structure of the assignment and answers ten questions in order.
 
 [Read the documentation →](https://maryamshojaeiee-hub.github.io/DNA-Sequence-Assembly-with-de-Bruijn-Graphs/documentation.pdf) · [View the code →](https://maryamshojaeiee-hub.github.io/DNA-Sequence-Assembly-with-de-Bruijn-Graphs/main_codes.py) 
 
 Estimated vaccination coverage by region and birth year
 
 # Data
-Survey counts of children who received at least one dose of the varicella vaccine, by region and birth year (2011–2020): number vaccinated (`Vaccinated`) out of the number surveyed (`Sample_Size`). Each region–year cell has roughly 180–330 children. The data are included directly in the R script.
-
-# Methods
+Survey counts of children who received at least one dose of the varicella vaccine, by region and birth year (2011–2020): number vaccinated (`Vaccinated`) out of the number surveyed (`Sample_Size`). There are 30 region–year observations, each with 177–334 children. The data are included directly in the R script.
+# What the report covers
 
 | Step | Approach |
 |---|---|
